@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-    int limit = 1000; e
+    int limit = 1000; 
     int sum = 0;
 
     
